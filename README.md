@@ -1,18 +1,17 @@
 # What drives housing prices across European cities?
 
-This project explores the economic and structural factors influencing housing prices across European cities using data analysis, statistical hypothesis testing, and machine learning models.
+This project explores the economic and structural factors influencing housing prices across European cities using data analysis, statistical, hypothesis testing. 
 
 ## Objectives
 - Combine housing data with macroeconomic indicators
-- Test statistical hypotheses about price drivers
-- Build predictive models for housing prices
-- Compare effects across European regions
+- Test statistical hypotheses about housing price differences
+- Analyze the relationship between GDP per capita and housing prices
+- Compare housing price behavior across different country groups and over time
 
 ## Methods
 - Data cleaning and merging
 - Exploratory Data Analysis
 - Hypothesis testing
-- Regression models
 
 ## Data sources
 - European housing datasets
